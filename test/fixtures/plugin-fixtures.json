@@ -1,0 +1,239 @@
+{
+  "bluebird3": {
+    "dependencies": {
+      "bluebird": "^3.5.2"
+    }
+  },
+  "connect3": {
+    "dependencies": {
+      "connect": "^3.5.0"
+    }
+  },
+  "express4": {
+    "dependencies": {
+      "express": "^4.13.3"
+    }
+  },
+  "generic-pool2": {
+    "dependencies": {
+      "generic-pool": "^2.0.0"
+    }
+  },
+  "generic-pool3": {
+    "dependencies": {
+      "generic-pool": "^3.0.0"
+    }
+  },
+  "google-gax0.16": {
+    "dependencies": {
+      "google-gax": "^0.16.0"
+    }
+  },
+  "grpc1.22": {
+    "dependencies": {
+      "grpc": "^1.22.2"
+    }
+  },
+  "hapi-plugin-mysql3": {
+    "dependencies": {
+      "hapi-plugin-mysql": "^3.1.3"
+    }
+  },
+  "hapi12": {
+    "dependencies": {
+      "hapi": "^12.1.0"
+    }
+  },
+  "hapi15": {
+    "dependencies": {
+      "hapi": "^15.0.0"
+    }
+  },
+  "hapi16": {
+    "dependencies": {
+      "hapi": "^16.0.0"
+    }
+  },
+  "hapi17": {
+    "dependencies": {
+      "hapi": "^17.0.0"
+    }
+  },
+  "hapi18": {
+    "dependencies": {
+      "@hapi/hapi": "^18.0.0"
+    }
+  },
+  "hapi8": {
+    "dependencies": {
+      "hapi": "^8.8.1"
+    }
+  },
+  "knex0.10": {
+    "dependencies": {
+      "knex": "^0.10.0",
+      "mysql": "^2.13.0"
+    },
+    "_mainModule": "knex"
+  },
+  "knex0.11": {
+    "dependencies": {
+      "knex": "^0.11.0",
+      "mysql": "^2.13.0"
+    },
+    "_mainModule": "knex"
+  },
+  "knex0.12": {
+    "dependencies": {
+      "knex": "^0.12.9",
+      "mysql": "^2.13.0"
+    },
+    "_mainModule": "knex"
+  },
+  "knex0.13": {
+    "dependencies": {
+      "knex": "^0.13.0",
+      "mysql": "^2.13.0"
+    },
+    "_mainModule": "knex"
+  },
+  "knex0.14": {
+    "dependencies": {
+      "knex": "^0.14.0",
+      "mysql": "^2.13.0"
+    },
+    "_mainModule": "knex"
+  },
+  "knex0.16": {
+    "dependencies": {
+      "knex": "^0.16.0",
+      "mysql": "^2.13.0"
+    },
+    "_mainModule": "knex"
+  },
+  "koa1": {
+    "dependencies": {
+      "koa": "^1.1.2"
+    }
+  },
+  "koa2": {
+    "dependencies": {
+      "koa": "^2.2.0"
+    }
+  },
+  "mongodb-core1": {
+    "dependencies": {
+      "mongodb-core": "^1.2.14"
+    }
+  },
+  "mongodb-core2": {
+    "dependencies": {
+      "mongodb-core": "^2.0.4"
+    }
+  },
+  "mongodb-core3": {
+    "dependencies": {
+      "mongodb-core": "^3.0.6"
+    }
+  },
+  "mongoose4": {
+    "dependencies": {
+      "mongoose": "^4.1.9"
+    }
+  },
+  "mongoose5": {
+    "dependencies": {
+      "mongoose": "^5.7.0"
+    }
+  },
+  "mysql-2": {
+    "dependencies": {
+      "mysql": "^2.9.0"
+    }
+  },
+  "mysql2-1": {
+    "dependencies": {
+      "mysql2": "^1.5.1"
+    }
+  },
+  "node-fetch2": {
+    "dependencies": {
+      "node-fetch": "^2.6.0"
+    }
+  },
+  "pg6": {
+    "dependencies": {
+      "pg": "^6.1.2"
+    }
+  },
+  "pg7": {
+    "dependencies": {
+      "pg": "^7.4.1"
+    }
+  },
+  "redis0.12": {
+    "dependencies": {
+      "redis": "^0.12.1"
+    }
+  },
+  "redis2.3-hiredis0.4": {
+    "dependencies": {
+      "hiredis": "^0.4.1",
+      "redis": "~2.3.x"
+    },
+    "_mainModule": "redis",
+    "engines": {
+      "node": "<12"
+    }
+  },
+  "redis2.3-hiredis0.5": {
+    "dependencies": {
+      "hiredis": "^0.5.0",
+      "redis": "~2.3.x"
+    },
+    "_mainModule": "redis",
+    "engines": {
+      "node": "<12"
+    }
+  },
+  "redis2.3": {
+    "dependencies": {
+      "redis": "~2.3.x"
+    }
+  },
+  "redis2.4": {
+    "dependencies": {
+      "redis": "2.4.x"
+    }
+  },
+  "redis2.x": {
+    "dependencies": {
+      "redis": "^2.x"
+    }
+  },
+  "restify3": {
+    "dependencies": {
+      "restify": "^3.0.3"
+    }
+  },
+  "restify4": {
+    "dependencies": {
+      "restify": "^4.0.3"
+    }
+  },
+  "restify5": {
+    "dependencies": {
+      "restify": "^5.2.0"
+    }
+  },
+  "restify6": {
+    "dependencies": {
+      "restify": "^6.0.1"
+    }
+  },
+  "restify7": {
+    "dependencies": {
+      "restify": "^7.2.2"
+    }
+  }
+}
